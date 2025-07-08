@@ -130,7 +130,7 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 <table>
   <tr>
     <td align="center"><img src="contens./1.png" width="300"/><br><b>Inbox Overview</b></td>
-    <td align="center"><img src="contens./2.png" width="300"/><br><b>Smart Reply Suggestions</b></td>
+    <td align="center"><img src="contens./2.png" width="300"/><br><b>Email Overview</b></td>
   </tr>
   <tr>
     <td align="center"><img src="contens./3.png" width="300"/><br><b>Email Summarization</b></td>
