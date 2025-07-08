@@ -1,5 +1,18 @@
 # ReplyWise
 
+## Contents
+- [Features](#-features)
+- [Tech Stack](#️-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Innovation Highlights](#-innovation-highlights)
+- [Recognition & Support](#-recognition--support)
+- [Demo](#-demo)
+- [Contribution](#-contribution)
+- [License](#-license)
+- [Contact](#-contact)
+- [Resources](#-resources)
+
 **AI-Powered Smart Email Management and Reply Generation Platform**
 
 ReplyWise is an innovative Flutter-based application that leverages advanced AI to help users manage, prioritize, and respond to emails efficiently. Designed for professionals and organizations facing email overload, ReplyWise integrates seamlessly with Gmail to provide intelligent triage, context-aware reply suggestions, and productivity-focused tools.
@@ -96,8 +109,10 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 
 - **Video:** [Add YouTube or demo video link here]
 - **Screenshots:**  
-  ![Screenshot 1](screenshots/screen1.png)  
-  ![Screenshot 2](screenshots/screen2.png)
+  ![Screenshot 1](1.png)  
+  ![Screenshot 2](2.png)  
+  ![Screenshot 3](3.png)  
+  ![Screenshot 4](4.png)
 
 ---
 
