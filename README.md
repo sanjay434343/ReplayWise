@@ -122,8 +122,8 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 
 ## 📺 Demo
 
-- **Video:**  
-  <video src="video.mp4" controls width="600"></video>
+🎥 [Click here to watch the demo video](https://drive.google.com/file/d/1o856D0xwOKrxODoLkF_FrPtju1zvXMxh/view?usp=drive_link)
+
 
 - **Screenshots:**  
 
