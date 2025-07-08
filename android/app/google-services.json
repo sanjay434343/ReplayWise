@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834531859075",
+    "project_id": "replywise-7d363",
+    "storage_bucket": "replywise-7d363.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834531859075:android:6bd3b9c52c9ef6eb5619b6",
+        "android_client_info": {
+          "package_name": "com.app.replywise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834531859075-a04jjhce5795itl06u04ji44brsb235c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.replywise",
+            "certificate_hash": "d3294c12b5516800d2e045e13e6d69d586d358ad"
+          }
+        },
+        {
+          "client_id": "834531859075-7rg536u1oaolpflsgl1gfd0ruf8qcbej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp1wlOYpr7d9Gp5bGhubEJZfYcgJPG-K0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834531859075-7rg536u1oaolpflsgl1gfd0ruf8qcbej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
