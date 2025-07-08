@@ -1,7 +1,7 @@
 # ReplyWise
 
 <div align="center">
-  <img src="assets/font/ic_launcher_foreground.png" alt="ReplyWise Logo" width="120" height="120">
+  <img src="assets/font/ic_launcher_foreground.png" alt="ReplyWise Logo" width="200" height="200">
   
   <h3>AI-Powered Smart Email Management Platform</h3>
   
