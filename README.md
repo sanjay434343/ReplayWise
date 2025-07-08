@@ -30,12 +30,25 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 - **Attachment Handling:** View, download, and manage email attachments.
 - **Signature Customization:** Personalize your email signatures for different accounts.
 - **Privacy-Focused:** No server-side email storage; all processing is local or via secure APIs.
-- **Modern, Intuitive UI:** Clean, user-friendly interface designed for productivity.
+- **Modern, Intuitive UI:**  
+  - Clean, minimal, and distraction-free layouts  
+  - Animated transitions and smooth navigation  
+  - Responsive design for all devices  
+  - Customizable color themes and accent colors  
+  - Material 3 and Neumorphic design elements  
+  - Interactive cards and swipe actions  
+  - Floating action buttons for quick actions  
+  - Collapsible side menu and bottom navigation bar  
+  - Rich text email viewer with inline images and attachments  
+  - Profile avatars and dynamic status indicators  
+  - Progress bars for loading and sync states  
+  - Tooltips and onboarding walkthroughs  
+  - Lottie animations for empty states and notifications  
 - **Multi-Account Support:** Manage multiple Gmail accounts from a single dashboard.
 - **Dark Mode:** Reduce eye strain with a fully supported dark theme.
 - **Notifications:** Get real-time notifications for important emails.
 - **Draft Management:** Save, edit, and send AI-generated drafts.
-- **Productivity Analytics:** Visualize your email habits and response times.
+- **Productivity Analytics:** Visualize your email habits and response times with interactive charts and graphs.
 
 ---
 
@@ -78,10 +91,12 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 
 - **Sign in** with your Gmail account.
 - **Browse** your inbox with smart filters and categories.
-- **Select** an email to view AI-generated summaries and reply suggestions.
+- **Enjoy a visually rich dashboard** with animated cards, avatars, and color-coded labels.
+- **Select** an email to view AI-generated summaries and reply suggestions in a modern, card-based layout.
 - **Choose** a suggested reply, edit if needed, and send with one click.
-- **Customize** quick replies and signatures in settings.
-- **Switch** between accounts and manage notifications.
+- **Customize** quick replies and signatures in settings, with live previews.
+- **Switch** between accounts and manage notifications from a sleek side menu.
+- **Track your productivity** with built-in analytics and beautiful charts.
 
 ---
 
@@ -107,12 +122,21 @@ ReplyWise is an innovative Flutter-based application that leverages advanced AI 
 
 ## 📺 Demo
 
-- **Video:** [Add YouTube or demo video link here]
+- **Video:**  
+  <video src="contens./video.mp4" controls width="600"></video>
+
 - **Screenshots:**  
-  ![Screenshot 1](contens./1.png)  
-  ![Screenshot 2](contens./2.png)  
-  ![Screenshot 3](contens./3.png)  
-  ![Screenshot 4](contens./4.png)
+
+<table>
+  <tr>
+    <td align="center"><img src="contens./1.png" width="300"/><br><b>Inbox Overview</b></td>
+    <td align="center"><img src="contens./2.png" width="300"/><br><b>Smart Reply Suggestions</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="contens./3.png" width="300"/><br><b>Email Summarization</b></td>
+    <td align="center"><img src="contens./4.png" width="300"/><br><b>Productivity Analytics</b></td>
+  </tr>
+</table>
 
 ---
 
