@@ -1,0 +1,15 @@
+{
+  "name": "ReplyWise",
+  "version": "v1.0.0",
+  "description": "An AI-powered smart email management platform with intelligent replies, summarization, Gmail integration, analytics, and a privacy-first design.",
+  "icon_url": "https://github.com/yourusername/replywise/blob/main/assets/font/ic_launcher_foreground.png?raw=true",
+  "release": "https://github.com/yourusername/replywise/releases/tag/v1.0.0",
+  "package_name": "com.yourpackage.replywise",
+  "screenshots": [
+    "https://github.com/yourusername/replywise/blob/main/contens./1.png?raw=true",
+    "https://github.com/yourusername/replywise/blob/main/contens./2.png?raw=true",
+    "https://github.com/yourusername/replywise/blob/main/contens./4.png?raw=true"
+  ],
+  "changelog": "Initial release with AI-generated smart replies, Gmail API integration, inbox categorization, and productivity tracking.",
+  "category": "Productivity"
+}
